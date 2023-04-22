@@ -22,11 +22,11 @@ async def playlist(client, m: Message):
                     [
                         [
                             InlineKeyboardButton(
-                                "❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali"
+                                " ᴏᴡɴʀ ", url=f"https://t.me/Lerrdab"
                             ),
                             InlineKeyboardButton(
-                                "👨‍‍👧‍👦 ɢʀᴏᴜᴘ 👨‍👧‍👦",
-                                url=f"https://t.me/Shayri_Music_Lovers",
+                                " BOKEP ",
+                                url=f"https://t.me/Lerrdab",
                             ),
                         ]
                     ]
@@ -39,4 +39,4 @@ async def playlist(client, m: Message):
                     QUE = QUE + "\n" + f"**#{x}** - [{hmm}]({hmmm}) | `{hmmmm}`"
                 await m.reply(QUE, disable_web_page_preview=True)
         else:
-            await m.reply("😜 **ɪᴛᴛᴜ sᴇʏ ᴘᴀɢᴀʟ sᴏɴɢ ᴄʜᴀʟᴀ ʟᴇʏ ᴘᴇʜʟʏ**")
+            await m.reply(" **kontol kontol kontol **")
